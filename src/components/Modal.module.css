@@ -1,0 +1,31 @@
+.mODALKA{
+    border: 1px #0D6EFD solid;
+    background-color: white;
+    height: 200px;
+    width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction:column;
+    margin-top: 120px;
+}
+
+input{
+    margin-left: 20px;
+}
+
+.soderzhanie{
+    margin-left: 160px;
+}
+
+.zagolovmodal{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.btm{
+    background-color: #0D6EFD;
+    margin-left: 10px;
+    margin-right: 20px;
+    color: white;
+    padding: 5px;
+}
